@@ -1,7 +1,6 @@
 
 # MyProject-repo
-Demo for Myproject which i will be focusing for 3 months from now.
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
