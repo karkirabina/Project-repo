@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MyProject-repo
 Demo for Myproject which i will be focusing for 3 months from now.
 =======
